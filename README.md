@@ -34,6 +34,7 @@ The Aave Ecosystem Reserve will act as a bootstrap fund allocated to protocol in
 ## Protocol Governance
 Aavenomics are fueled by governance forums and ratified through onchain Aave Improvement Proposals (AIPs) using AAVE. This process looks to ensure extensive discussion is had on proposals prior to being pushed onchain. Both AAVE held in cold storage and AAVE staked via the Safety Module can be used to vote on AIPs or be delegated to Aave protocol politicians to vote on your behalf.
 
+![Governancess](./images/governance-process.png)
 
 
 
